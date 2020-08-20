@@ -1,0 +1,174 @@
+body {
+  text-align: center;
+}
+
+/*--------Home--------*/
+
+.icon {
+  height: 45px;
+  width: 45px;
+}
+
+.top-half {
+  background-color: #f9f7d9;
+  color: black;
+}
+
+/* Navbar */
+.navbar {
+  padding: 60px;
+  background-color: #f9f7d9;
+}
+
+.navbar-brand {
+  font-family: "Lobster", cursive;
+  font-size: 50px;
+}
+
+.nav-item {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.nav-link {
+  font-size: 18px;
+}
+
+/* Top Row */
+.welcome-box {
+  font-family: "Acme", sans-serif;
+  padding: 150px;
+}
+
+.welcome-text {
+  font-size: 40px;
+}
+
+.welcome-msg {
+  font-size: 25px;
+}
+
+.avatar {
+  border-radius: 50%;
+  max-height: 200px;
+  margin: 15px;
+}
+
+.chat-box {
+  position: relative;
+  bottom: 60px;
+}
+
+/* Bottom Row */
+.bottom-half {
+  background-color: #52575d;
+  padding: 150px;
+}
+
+.notifications-text {
+  color: white;
+  margin-bottom: 10px;
+  font-size: 35px;
+}
+
+/* Footer */
+
+#footer {
+  background-color: #f9f7d9;
+  padding: 10px;
+}
+
+.copyright {
+  margin-top: 15px;
+  font-size: 18px;
+}
+
+/* -------Submit Page--------*/
+
+.submit-body {
+  background-color: #f9f7d9;
+}
+
+.submit-heading {
+  font-family: "Acme", sans-serif;
+  font-size: 50px;
+}
+
+.submit-title {
+  background-color: #52575d;
+  color: white;
+  margin-top: 20px;
+}
+
+.submit-title-text {
+  padding: 20px;
+  margin: 0;
+}
+
+.submit-details {
+  padding: 20px;
+  margin-top: 0;
+  background-color: white;
+  font-size: 16px;
+}
+
+.assignment-name {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.submit-details-text {
+  padding: 10px;
+}
+
+.submit-button {
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+/* -------Grades Page-------- */
+
+.subject {
+  text-align: center;
+  margin: 10px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.subject-graphs {
+  width: 300px;
+  height: 200px;
+}
+
+ul {
+  list-style: none;
+}
+
+/* --------Media Query-------- */
+@media (max-width: 1028px) {
+  .chat-box {
+    margin-top: 20px;
+    position: static;
+  }
+
+  .bottom-half {
+    position: static;
+  }
+
+  .notifications-box {
+    position: relative;
+    right: 70px;
+  }
+
+  .dates-box {
+    margin-top: 20px;
+  }
+}
+
+/* Media might need to change later 
+since I just hard coded positioning of the divs */
+
+/* Fonts 
+font-family: 'Acme', sans-serif;
+font-family: 'Lobster', cursive; */
