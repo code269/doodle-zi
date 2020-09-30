@@ -1,5 +1,3 @@
-# doodle-zi
-
 # Doodle
 
 Best Front-End Winner of CTP Homehacks 2020
