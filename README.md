@@ -1,4 +1,4 @@
-# Doodle - Winner of Best Front-End (CTP Homehacks 2020)
+# Doodle - Best Front-End (CTP Homehacks 2020)
 
 Built with React & Bootstrap, Doodle is a modern re-design of City University of New York (CUNY)'s Blackboard. 
 
