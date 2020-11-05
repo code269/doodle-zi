@@ -1,8 +1,10 @@
 # Doodle - Best Front-End (CTP Homehacks 2020)
 ___________________
 
-# Watch the demo here: 
-https://www.youtube.com/watch?v=3iqw8PqgrwI
+# Links 
+Live: https://94x8q.csb.app/
+
+Demo: https://www.youtube.com/watch?v=3iqw8PqgrwI
 
 # What is Doodle?
 
