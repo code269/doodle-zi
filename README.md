@@ -15,6 +15,6 @@ Doodle was created by students, for students. We aimed for a better design and i
 
 We hope to improve the project together by implementing the many features we have in mind. One of our ideas is to add a chat with channels for students to communicate with one another, which is incredibly important to do especially in a time where there is no face-to-face classes. This will greatly enhance their virtual learning experiences as well as expand their networks. We also want to implement the graphs & charts that would help visualize grades to facilitate students and provide them with a better understanding of their performance.
 
-# Charts/Graphs Visualization: https://deepnote.com/project/65945e7e-65eb-4977-bb01-e88b04c76850#%2Fnotebook.ipynb
+Charts/Graphs Visualization: https://deepnote.com/project/65945e7e-65eb-4977-bb01-e88b04c76850#%2Fnotebook.ipynb
 
 Created with CodeSandbox
