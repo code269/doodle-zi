@@ -6,4 +6,6 @@ The issue with Blackboard is that there are many features that are unused/unnece
 
 Doodle was created by students, for students. We aimed for a better design and interface, while shaving off all the unnecessary features that Blackboard consisted of. This cuts down the amount of time for a user to learn how to use the website. <...>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3iqw8PqgrwI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Created with CodeSandbox
