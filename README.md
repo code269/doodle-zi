@@ -18,13 +18,3 @@ We hope to improve the project together by implementing the many features we hav
 
 # Charts/Graphs Visualization: 
 https://deepnote.com/project/65945e7e-65eb-4977-bb01-e88b04c76850#%2Fnotebook.ipynb
-
-# Credits:
-
-https://devpost.com/ChacaPatrick - Developer
-
-https://github.com/wlee004 - Developer
-
-https://github.com/Anna1027 - Data Scientist
-
-https://github.com/TashiNyangmi - Data Scientist
